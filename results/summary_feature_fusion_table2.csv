@@ -1,0 +1,5 @@
+domain,n_mics,config,f1,auc,mcc
+regular,1mic,Feature_Fusion,0.837,0.983,0.756
+regular,3mic,Feature_Fusion,0.868,0.995,0.766
+ultrasonic,1mic,Feature_Fusion,0.742,0.933,0.609
+ultrasonic,3mic,Feature_Fusion,0.837,0.967,0.734

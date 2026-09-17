@@ -1,0 +1,17 @@
+domain,n_mics,config,f1,auc,mcc
+regular,1mic,EE,0.756,0.925,0.674
+regular,1mic,EI,0.668,0.887,0.342
+regular,1mic,IE,0.381,0.766,0.294
+regular,1mic,II,0.682,0.861,0.498
+regular,3mic,EE,0.802,0.925,0.697
+regular,3mic,EI,0.642,0.949,0.129
+regular,3mic,IE,0.551,0.827,0.434
+regular,3mic,II,0.7,0.87,0.513
+ultrasonic,1mic,EE,0.765,0.871,0.561
+ultrasonic,1mic,EI,0.72,0.887,0.375
+ultrasonic,1mic,IE,0.607,0.805,0.212
+ultrasonic,1mic,II,0.834,0.942,0.707
+ultrasonic,3mic,EE,0.866,0.969,0.759
+ultrasonic,3mic,EI,0.763,0.954,0.46
+ultrasonic,3mic,IE,0.624,0.816,0.053
+ultrasonic,3mic,II,0.879,0.986,0.821
