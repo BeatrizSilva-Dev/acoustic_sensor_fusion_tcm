@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / ambient files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+
+# Data directories (heavy audio, raw signals, image dumps, and cache)
+data/raw/
+data/standardized/
+data/segmented/
+data/images/
+data/cache/
+data/cache/*.npz
+data/plots/
+
+# Large Model weights and checkpoints
+*.h5
+*.keras
+*.savedmodel/
+cross_sensor_models/
+late_fusion_models/
